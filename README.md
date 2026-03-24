@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif")
+<script src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyarana&label=Profile%20views&color=0e75b6&style=flat" alt="pragyarana" /> </p>
 
