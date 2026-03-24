@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyarana&label=Profile%20views&color=0e75b6&style=flat" alt="pragyarana" /> </p>
 
-<script src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956.js"></script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pragyarana101/?skipredirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragyarana101/?skipredirect=true" height="30" width="40" /></a>
