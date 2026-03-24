@@ -1,5 +1,4 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<script src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyarana&label=Profile%20views&color=0e75b6&style=flat" alt="pragyarana" /> </p>
 
