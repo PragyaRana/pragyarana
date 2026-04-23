@@ -91,6 +91,6 @@
 
 *"The only way to do great work is to love what you do."* — Steve Jobs
 
-<img src="https://capsule-render.vercel.app/api?type=for-the-badge&color=0891b2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%"/>
 
 </div>
