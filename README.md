@@ -1,83 +1,101 @@
-<!-- ═══════════════ HEADER GIF BANNER ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║           HEADER ANIMATED BANNER                ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e7b3e6f/images/footer.svg" width="100%" alt="header"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="animated header banner"/>
 </div>
 
-<!-- ═══════════════ MASTHEAD ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║              NEWSPAPER MASTHEAD                 ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
+<br/>
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-`VOL. 01 · NO. 2025` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `GITHUB.COM/PRAGYARANA` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `PAGE 01`
+<kbd>STUDENT EDITION</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp; **`T H E   P R A G Y A   P O S T`** &nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>CHANDIGARH · INDIA</kbd>
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### `[ STUDENT EDITION ]` &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp; **THE PRAGYA POST** &nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp; `[ CHANDIGARH · INDIA ]`
+`VOL. 01` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `NO. 2025` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `GITHUB.COM/PRAGYARANA`
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 ```
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%8C%B8;MERN+Stack+Learner+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Building+things+that+matter+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E879F9&center=true&vCenter=true&width=650&lines=✦+Aspiring+Software+Developer+🌸;✦+MERN+Stack+Learner+🚀;✦+Turning+coffee+into+code+☕;✦+Building+things+that+matter+💜;✦+commit+.+push+.+repeat+🌙)](https://git.io/typing-svg)
 
 ```
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 ```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║                 ABOUT ME                        ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cute girl coding gif"/>
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="cute girl coding"/>
 
 ### ✦ MEET THE DEVELOPER
 
-&nbsp;&nbsp;*Just Launched?* — Not quite. Still loading... `▓▓▓▓▓▓▓░░░ 70%`
+*Just Launched?* — Not quite. Still loading... `▓▓▓▓▓▓▓░░░ 70%`
 
-Stepping into the dev world is exciting! I'm **Pragya Rana** 🌸
-an aspiring software developer from **Chandigarh, India.**
+Hi! I'm **Pragya Rana** 🌸 — an aspiring software developer
+based in **Chandigarh, India**, currently on my MERN Stack
+journey, building bridges between ideas and the internet,
+one commit at a time.
 
-Currently on my MERN Stack journey — building bridges between
-ideas and the internet, one commit at a time. I believe in
-writing code that is **meaningful** and creates real impact.
+I believe in writing code that is **meaningful** — creating
+experiences that connect, engage, and make people's lives
+a little better. ✨
 
 > *"She turned her can'ts into commits,*
 > *her bugs into breakthroughs."* 💜
 
-📬 &nbsp;**pragyarana101@gmail.com**
+📬 &nbsp;[pragyarana101@gmail.com](mailto:pragyarana101@gmail.com)
 
 <br clear="right"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║             STANDARD PACKAGE BANNER             ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  WHAT'S INCLUDED IN THIS DEVELOPER?       ✦ STANDARD PACKAGE ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   WHAT'S INCLUDED IN THIS DEVELOPER?        ✦  STANDARD PACKAGE  ✦
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 We'll craft compelling web experiences built on a **strong technical
-foundation**, including **clean code, thoughtful UI, and scalable logic.**
+foundation** — clean code, thoughtful UI, and scalable logic.
 
 **Focus:** Build. Break. Learn. Repeat. 🔧
 
 <br/>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║                 TECH STACK                      ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ```
-─────────────────── ✦  TECH STACK  ✦ ───────────────────
+──────────────────── ✦  TECH STACK  ✦ ─────────────────────
 ```
 
 **`LANGUAGES`**
@@ -105,65 +123,85 @@ foundation**, including **clean code, thoughtful UI, and scalable logic.**
 
 <br/>
 
-<!-- ═══════════════ CURRENT QUEST ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║               CURRENT QUEST                     ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
 **`CURRENTLY WORKING ON`** &nbsp;✦&nbsp; **`FRESH CONTENT`** &nbsp;✦&nbsp; **`ONLY NEW THINGS`**
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 ```javascript
-// ── PRAGYA.EXE IS RUNNING ──────────────────────────────────────
+// ── PRAGYA.EXE IS RUNNING ─────────────────────────────────────────
 const pragya = {
-  currentlyLearning : "MERN Stack (MongoDB · Express · React · Node)",
-  building          : "Projects that spark joy ✨",
-  askMeAbout        : ["Web Dev", "C++", "Problem Solving", "Coffee ☕"],
-  funFact           : "I debug with snacks and lo-fi music 🎧",
-  goal              : "Land my first dev role & keep shipping 🚀"
+  currently  : "mastering MERN Stack 🌱",
+  building   : "projects that spark joy ✨",
+  askMeAbout : ["React", "C++", "Web Dev", "Coffee ☕"],
+  funFact    : "I debug with snacks & lo-fi music 🎧",
+  goal       : "ship meaningful code every single day 🚀"
 }
-// ──────────────────────────────────────────────────────────────
+// ─────────────────────────────────────────────────────────────────
 ```
 
 <br/>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║               GITHUB STATS                      ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ```
-─────────────────── ✦  ISSUE STATS  ✦ ──────────────────────
+──────────────────── ✦  PRESS STATS  ✦ ────────────────────
 ```
 
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=pragyarana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=e879f9&icon_color=e879f9&text_color=c0caf5&bg_color=1a1b27&cache_seconds=1800"/>
-<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarana&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=e879f9&text_color=c0caf5&bg_color=1a1b27&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pragyarana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=e879f9&icon_color=e879f9&text_color=c0caf5&bg_color=1a1b27&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarana&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=e879f9&text_color=c0caf5&bg_color=1a1b27&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=pragyarana&theme=tokyonight&hide_border=true&ring=e879f9&fire=f472b6&currStreakLabel=e879f9&sideLabels=c0caf5&dates=c0caf5" alt="Streak Stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyarana&theme=tokyo-night&hide_border=true&area=true&color=e879f9&line=e879f9&point=f472b6" alt="Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=pragyarana&theme=tokyonight&hide_border=true&ring=e879f9&fire=f472b6&currStreakLabel=e879f9&sideLabels=c0caf5&dates=c0caf5" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║         CONTRIBUTION SNAKE ANIMATION            ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────── ✦  CONTRIBUTION SNAKE  ✦ ─────────────
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║                  CONNECT                        ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ### ✦ INQUIRE TODAY ✦
@@ -172,7 +210,7 @@ const pragya = {
 *I'd love to hear from you.* 🌸
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <br/>
@@ -190,15 +228,18 @@ const pragya = {
 <br/>
 
 ```
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-  thanks for reading this edition of THE PRAGYA POST  ♡
-  drop a ⭐ if you enjoyed — it means the world!
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+    thanks for reading this edition of THE PRAGYA POST  ♡
+    drop a ⭐ if you enjoyed — it means the world!
+─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 ```
 
 </div>
 
-<!-- ═══════════════ FOOTER GIF ═══════════════ -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!-- ║            FOOTER ANIMATED BANNER               ║ -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated footer"/>
 </div>
