@@ -59,8 +59,7 @@ to last, creating experiences that connect and engage. ✨
 
 | 🔭 | Currently mastering **MERN Stack** |
 |:--|:--|
-| 🌱 | Learning **Node.js + MongoDB** |
-| 💡 | Exploring **DSA in C++** |
+| 💡 | Exploring **DSA in Java** |
 | 🎯 | Goal: **Ship meaningful code daily** |
 | 🎧 | Debug fuel: **lo-fi + snacks** |
 
@@ -81,7 +80,7 @@ to last, creating experiences that connect and engage. ✨
 const pragya = {
   role    : "Developer 🌸",
   city    : "Chandigarh, IN 🇮🇳",
-  stack   : ["MERN", "C++", "Python"],
+  stack   : ["MERN", "Java", "Python"],
   status  : "open to opportunities ✅",
   motto   : "ship · learn · repeat 🚀"
 }
@@ -180,7 +179,7 @@ const pragya = {
   Full-stack app with React frontend + Node/Express API + MongoDB
 
 - **DSA Practice**
-  Solving problems in C++ to sharpen algorithmic thinking
+  Solving problems in Java to sharpen algorithmic thinking
 
 - **Open Source Contributions**
   Looking for beginner-friendly issues to contribute to
