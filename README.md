@@ -1,126 +1,199 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   THE PRAGYA POST — Y2K EDITION                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--         PRAGYA RANA — scrapbook × editorial README        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:d63384,100:ff69b4&height=180&section=header&text=pragya.exe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=✦+made+for+the+internet+✦&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,100:f8bbd0&height=12&section=header" width="100%"/>
 </div>
 
-<!-- TICKER BADGES -->
-<div align="center">
+<br/>
 
-![](https://img.shields.io/badge/✦-NEW%20DROP%20ALERT!-ff69b4?style=flat-square)
-![](https://img.shields.io/badge/✦-OPEN%20TO%20OPPORTUNITIES-d63384?style=flat-square)
-![](https://img.shields.io/badge/✦-MERN%20STACK%20IN%20PROGRESS-ff69b4?style=flat-square)
-![](https://img.shields.io/badge/✦-commit%20·%20push%20·%20repeat-d63384?style=flat-square)
-
-</div>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    ▶ start  |  ♡ welcome 2 my world.html  |  ✉ new message (1)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<!-- ═══ HERO — big editorial title like Stacey Wang slide ═══ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&pause=1000&color=d63384&center=true&vCenter=true&width=680&lines=✦+aspiring+software+developer+🌸;✦+mern+stack+learner+🚀;✦+turning+coffee+into+commits+☕;✦+building+things+that+matter+💜;✦+commit+·+push+·+repeat+🌙)](https://git.io/typing-svg)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│           Hi. Since you're new here,                            │
+│                    let me be ya tour guide.                     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Covered+By+Your+Grace&size=52&pause=2000&color=e91e8c&center=true&vCenter=true&width=700&height=80&lines=This+is+Pragya+Rana.;Developer.+Dreamer.+Builder." alt="hero title"/>
+
+**`Aspiring Software Developer / MERN Stack Learner`** &nbsp;·&nbsp; *Chandigarh, India*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f48fb1&height=3&width=400&section=header" width="400"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════ HERO SECTION ══════════════ -->
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-```
-╔══════════════════════╗
-║    quick links       ║
-╠══════════════════════╣
-║  ★  new repos      › ║
-║  ♡  projects       › ║
-║  ⊞  tech stack     › ║
-║  ✉  contact        › ║
-║  ☆  github stats   › ║
-║  ▶  blog           › ║
-╚══════════════════════╝
-```
-
-```
-╔══════════════════════╗
-║  welcome ♡           ║
-╠══════════════════════╣
-║  welcome babe! ✦     ║
-║  thanks 4 stopping   ║
-║  by! hope u find     ║
-║  something cute 2day ║
-║       ♡ xoxo pragya  ║
-╚══════════════════════╝
-```
-
-</td>
-<td width="44%" valign="top">
+<!-- ═══ GET TO KNOW ABOUT ME — scrapbook journal grid ═══ -->
 
 <div align="center">
 
-# made 4 the internet
-
-*aspiring developer · chandigarh, india*
-*mern stack learner · building things that matter ✨*
+### ✦ *get to know about me* ✦
 
 </div>
 
-```javascript
-// ── pragya.exe is running ──────────────────
-const pragya = {
-  role    : "Developer 🌸",
-  city    : "Chandigarh, India 🇮🇳",
-  stack   : ["MERN", "C++", "Python"],
-  status  : "open to opportunities ✅",
-  loading : "▓▓▓▓▓▓▓░░ 78%",
-  vibe    : "lo-fi + dark mode 🎧",
-  motto   : "commit · push · repeat 🚀"
-}
-// ───────────────────────────────────────────
+<table>
+<tr>
+<td width="38%" valign="top">
+
+<!-- POLAROID / ID CARD BLOCK -->
+```
+ ┌──────────────────────────────┐
+ │  DEVELOPER LICENSE           │
+ │  ░░░░░░░░░░░░░░░░░░░░░░░░░  │
+ │                              │
+ │  Name    : Pragya Rana       │
+ │  Based   : Chandigarh, IN   │
+ │  Status  : Still Loading...  │
+ │  Level   : ▓▓▓▓▓▓▓░░ 78%   │
+ │                              │
+ │  [  NOT EXPIRED YET  ]       │
+ └──────────────────────────────┘
 ```
 
-> ✦ *commit · push · repeat · ship · learn · grow* ✦
+**Personality :** `INFJ` *(probably)*
+
+**Pragya's Journal →**
+
+> *"She turned her can'ts into commits,*
+> *her bugs into breakthroughs."* 🌸
+
+📬 [pragyarana101@gmail.com](mailto:pragyarana101@gmail.com)
 
 </td>
-<td width="28%" valign="top">
+<td width="32%" valign="top">
+
+<!-- SCRAPBOOK ABOUT CHUNK -->
+
+**feel gorgeous**
+**in this pick 🌸**
 
 ```
-╔══════════════════════╗
-║  new message! ♡      ║
-╠══════════════════════╣
-║                      ║
-║  you have            ║
-║  (1) new message     ║
-║                      ║
-║       [ ok ]         ║
-╚══════════════════════╝
+currently  →  mastering MERN Stack
+building   →  projects that spark joy
+learning   →  Node.js + MongoDB
+reading    →  CLRS algorithms
+debug fuel →  lo-fi + snacks 🎧
+goal       →  ship something daily 🚀
 ```
 
-```
-╔══════════════════════╗
-║  now playing ▶       ║
-╠══════════════════════╣
-║  dreaming.mp3        ║
-║  by everydream       ║
-║  ──────●──────────   ║
-║  ⏮  ⏪  ⏸  ⏩  ⏭   ║
-╚══════════════════════╝
-```
+> *"i just really can't comprehend*
+> *how fast it's all going"*
+
+✦ &nbsp;dark mode always&nbsp; ✦
+✦ &nbsp;10PM–2AM dev hours&nbsp; ✦
+✦ &nbsp;2–3 cups of coffee/day&nbsp; ✦
+
+</td>
+<td width="30%" valign="top">
+
+<!-- THINGS THAT MAKE ME — checklist style -->
+
+**THINGS**
+**MAKE ME**
+**INTERESTED ☆**
 
 ```
-📝 don't forget:
+☆  clean code
+☆  meaningful UX
+☆  vintage aesthetics
+☆  lo-fi music
+☆  thrifting inspo
+☆  memes (always)
+☆  coffee ☕
+☆  dark mode
+☆  good commits
+☆  strawberries 🍓
+```
+
+*Live. love. launch.* 💜
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- DIVIDER — torn paper style -->
+<div align="center">
+
+`· · ────────── ✦ · · P R A G Y A ' S · J O U R N A L · · ✦ ────────── · ·`
+
+</div>
+
+<br/>
+
+<!-- ═══ WEEK RECAP STYLE — postcard section ═══ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<!-- LEFT POSTCARD -->
+```
+╭──────────────────────────────────────────╮
+│  📮  P O S T  C A R D                   │
+│ ─────────────────────────────────────── │
+│                                          │
+│  Midyear felt like a year, yet at the   │
+│  same time, it passed so quickly.        │
+│                                          │
+│  ✦  I am finally done with MERN basics  │
+│                                          │
+│  currently able to get through a         │
+│  whirlwind of learning — React,          │
+│  Node, Express, MongoDB. One entire      │
+│  stack condensed into a season. 🌱       │
+│                                          │
+│  habado talaga ako — but worth it.       │
+╰──────────────────────────────────────────╯
+```
+
+**now playing 🎵**
+
+```
+ ▶  dreaming.mp3 — everydream
+    ──────●────────────────
+    ⏮  ⏪  ⏸  ⏩  ⏭
+```
+
+</td>
+<td width="50%" valign="top">
+
+<!-- RIGHT POSTCARD -->
+```
+╭──────────────────────────────────────────╮
+│                       POST CARD    🏷️   │
+│ ─────────────────────────────────────── │
+│                                          │
+│  anyway, i am very excited na! 🌸        │
+│                                          │
+│  first off — God has given me the        │
+│  strength to endure. faith is the        │
+│  top thing i am restoring. 💜            │
+│                                          │
+│  and my pookie petatotis mochi           │
+│  debug partner — CAT FOR LIFEEE 🐱       │
+│                                          │
+│  wanna collect some sonny angel but      │
+│  the price is sooo arggh 😭              │
+╰──────────────────────────────────────────╯
+```
+
+**don't forget 📝**
+
+```
+sticky note:
 ✦ push daily commits
-✦ drink water
-✦ be kind always
+✦ drink water pls
+✦ be kind to yourself
 ✦ ship something today
+✦ u got this bestie 🌸
 ```
 
 </td>
@@ -129,123 +202,42 @@ const pragya = {
 
 <br/>
 
-<!-- CHECKERBOARD DIVIDER -->
+<!-- ═══ FAV THINGS — magazine editorial strip ═══ -->
+
 <div align="center">
 
-`█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█`
+`· · ────────── ✦ · · F A V · T H I N G S · · ✦ ────────── · ·`
 
-| 💻 **fast learner** — always curious | ♡ **open to collab** — no stress | ✦ **meaningful code** — 100% made with love |
-|:---:|:---:|:---:|
+<br/>
 
-`█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█░█`
+| **fav stack** | **fav vibe** | **fav things** | **movie list** |
+|:---:|:---:|:---:|:---:|
+| React ⚛️ | lo-fi music 🎧 | clean code ✨ | Gilmore Girls |
+| Node.js 🟩 | dark mode 🌙 | strawberries 🍓 | 10 things i hate you |
+| MongoDB 🍃 | iced coffee ☕ | vintage things 🎞️ | The Notebook |
+| C++ ⚡ | rain sounds 🌧️ | good commits 💾 | 13 Going on 30 |
+| Express 🚂 | 2AM coding 🌚 | memes always 😭 | The Holiday |
 
 </div>
 
 <br/>
 
-<!-- ══════════════ ABOUT + PLAYLIST + FAVES ══════════════ -->
-
-<table>
-<tr>
-
-<td width="34%" valign="top">
-
-### ♡ about me
-
-**Pragya Rana**
-*aspiring software developer 🌸*
-
-hi! i'm a passionate developer from **chandigarh, india** on my mern stack journey. building bridges between ideas and the internet, one commit at a time. ✨
-
-> *"she turned her can'ts into commits,*
-> *her bugs into breakthroughs."* 💜
-
-**loading: still learning...**
-`▓▓▓▓▓▓▓░░░ 78%`
-
-| | |
-|:--|:--|
-| 🔭 | mastering mern stack |
-| 🌱 | learning node + mongodb |
-| 💡 | dsa in c++ |
-| 🌙 | productive 10 PM – 2 AM |
-| 📬 | pragyarana101@gmail.com |
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☆ playlist
-
-| # | track | time |
-|:-:|:------|-----:|
-| 01 | react vibes | 2:31 |
-| **02** | **debug mode ▶ now** | **3:12** |
-| 03 | node.js dreams | 2:45 |
-| 04 | commit push repeat | 3:07 |
-| 05 | css cascade | 4:09 |
-| 06 | lo-fi compile | 2:56 |
-| 07 | 404 not found | 3:33 |
-
-<br/>
-
-**pragya.exe status**
-```
-● currently : building cool stuff
-● learning  : mern stack
-● vibe      : lo-fi + dark mode
-● goal      : ship daily 🚀
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☆ my faves
-
-| | | count |
-|:--|:--|:-----:|
-| ✦ | starred repos | `12` |
-| ♡ | wish list | `8` |
-| ★ | recently viewed | `15` |
-| ◈ | contributions | `>>` |
-
-<br/>
-
-### ♡ blog corner
-
-> `›` 10 react patterns i'm obsessed with
->
-> `›` how to style bubblegum pink uis
->
-> `›` the ultimate y2k dev playlist
->
-> *read more on the blog →*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════ TECH STACK ══════════════ -->
+<!-- ═══ TECH STACK — scrapbook badge cluster ═══ -->
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                         ✦  tech stack  ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### ✦ *it's not just coding, it's vibing with visuals* ✦
 
-**`LANGUAGES`**
+<br/>
+
+**`— LANGUAGES —`**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**`FRONTEND`**
+**`— FRONTEND —`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -253,14 +245,14 @@ hi! i'm a passionate developer from **chandigarh, india** on my mern stack journ
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**`BACKEND & DATABASE`**
+**`— BACKEND & DATABASE —`**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**`TOOLS`**
+**`— TOOLS —`**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -272,61 +264,61 @@ hi! i'm a passionate developer from **chandigarh, india** on my mern stack journ
 
 <br/>
 
-<!-- ══════════════ SKILL LEVELS ══════════════ -->
+<!-- ═══ SKILL LEVELS — journal handwritten feel ═══ -->
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        ✦  skill levels  ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+`· · ────────── ✦ · · S K I L L S · & · W O R K S · · ✦ ────────── · ·`
 
 </div>
 
+<br/>
+
 ```
-  React        ████████████████░░░░   80%   🚀 growing fast
-  C++          ███████████████░░░░░   75%   🧠 strong foundation
-  JavaScript   ██████████████░░░░░░   70%   ⚡ getting solid
-  Node.js      ████████████░░░░░░░░   60%   🌱 in progress
-  MongoDB      ██████████░░░░░░░░░░   50%   📦 exploring
-  Python       ████████░░░░░░░░░░░░   40%   🐍 learning
+  ╔══════════════════════════════════════════════════════════════╗
+  ║   such as...                                                 ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║   React        ████████████████░░░░   80%   🚀 growing fast ║
+  ║   C++          ███████████████░░░░░   75%   🧠 strong base  ║
+  ║   JavaScript   ██████████████░░░░░░   70%   ⚡ getting solid║
+  ║   Node.js      ████████████░░░░░░░░   60%   🌱 in progress  ║
+  ║   MongoDB      ██████████░░░░░░░░░░   50%   📦 exploring    ║
+  ║   Python       ████████░░░░░░░░░░░░   40%   🐍 learning     ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ══════════════ GITHUB STATS ══════════════ -->
+<!-- ═══ GITHUB STATS — editorial data spread ═══ -->
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        ✦  press stats  ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pragyarana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=d63384&icon_color=ff69b4&text_color=c0caf5&bg_color=1a1b27&include_all_commits=true&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarana&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=d63384&text_color=c0caf5&bg_color=1a1b27&cache_seconds=1800"/>
+`· · ────────── ✦ · · P R E S S · S T A T S · · ✦ ────────── · ·`
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=pragyarana&theme=tokyonight&hide_border=true&ring=d63384&fire=ff69b4&currStreakLabel=d63384&sideLabels=c0caf5&dates=c0caf5&background=1a1b27" alt="GitHub Streak"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pragyarana&show_icons=true&theme=buefy&count_private=true&hide_border=false&title_color=e91e8c&icon_color=f06292&text_color=555&bg_color=fff9fc&include_all_commits=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyarana&layout=compact&langs_count=6&theme=buefy&hide_border=false&title_color=e91e8c&text_color=555&bg_color=fff9fc&cache_seconds=1800"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=pragyarana&theme=buefy&hide_border=false&ring=e91e8c&fire=f06292&currStreakLabel=e91e8c&sideLabels=888&dates=aaa&background=fff9fc" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyarana&theme=tokyo-night&hide_border=true&color=d63384&line=ff69b4&point=ffffff&bg_color=1a1b27" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyarana&theme=minimal&hide_border=true&color=e91e8c&line=f48fb1&point=e91e8c&bg_color=fff9fc" width="100%" alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+<!-- ═══ CONTRIBUTION SNAKE ═══ -->
 
 <div align="center">
 
-```
-──────────────────── ✦  contribution trail  ✦ ─────────────────────
-```
+`· · ────────── ✦ · · C O N T R I B U T I O N · T R A I L · · ✦ ────────── · ·`
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-contribution-grid-snake-dark.svg"/>
@@ -338,68 +330,49 @@ hi! i'm a passionate developer from **chandigarh, india** on my mern stack journ
 
 <br/>
 
-<!-- ══════════════ DEVELOPER TRIVIA ══════════════ -->
+<!-- ═══ AND THAT'S A WRAP — Stacey Wang outro slide ═══ -->
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                     ✦  developer trivia  ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-| 🎧 | codes best with **lo-fi + rain sounds** |
-|:--:|:--|
-| ☕ | average coffee consumption: **2–3 cups/day** |
-| 🌙 | most productive hours: **10 PM – 2 AM** |
-| 🐛 | favorite bug: **the one that teaches the most** |
-| 💜 | aesthetic: **dark mode, always** |
-| 📖 | currently reading: **CLRS algorithms** |
-| 🎯 | life motto: **ship · learn · repeat** |
-
-</div>
+`· · ────────── ✦ · · ────────── · ·`
 
 <br/>
 
-<!-- ══════════════ CONNECT ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Covered+By+Your+Grace&size=44&pause=2000&color=e91e8c&center=true&vCenter=true&width=600&height=70&lines=and+that's+a+wrap.+🌸" alt="wrap"/>
 
-<div align="center">
+<br/>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                       ✦  inquire today  ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+*Thank you so much for taking the time to look around!*
+*i always appreciate your curiosity. here to learn and grow.* 💜
 
-*ready to connect, collab, or just say hi? i'd love to hear from you 🌸*
+*if you're interested in working together — i'd love that!*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyarana101)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/pragyarana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragyarana101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-d63384?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/pragyarana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e91e8c?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/pragyarana)
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=pragyarana&label=profile+views&color=d63384&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=pragyarana&label=readers+this+month&color=f06292&style=flat-square)
 &nbsp;
-![Status](https://img.shields.io/badge/status-open%20to%20opportunities-ff69b4?style=flat-square)
+![Status](https://img.shields.io/badge/status-open%20to%20opportunities-f48fb1?style=flat-square)
 &nbsp;
-![Made with love](https://img.shields.io/badge/made%20with-♡%20in%20india-d63384?style=flat-square)
+![Made with love](https://img.shields.io/badge/made%20with-♡%20in%20india-e91e8c?style=flat-square)
 
 <br/>
 
 ```
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-    thanks for reading this edition of THE PRAGYA POST  ♡
-    drop a ⭐ if you enjoyed — it truly means the world!
-─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+· · ─────────────────────────────────────────────────────── · ·
+      thanks for reading — Pragya's Journal, Vol. 01  ♡
+      drop a ⭐ if you enjoyed — it truly means the world!
+· · ─────────────────────────────────────────────────────── · ·
 ```
 
 </div>
 
-<!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:d63384,100:ff69b4&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8bbd0,100:fce4ec&height=12&section=footer" width="100%"/>
 </div>
