@@ -138,10 +138,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=2000&color=c4607a&center=true&vCenter=true&width=500&lines=commit+·+push+·+ship+·+learn;thanks+for+stopping+by!+🎀;drop+a+⭐+if+you+vibe+with+this)](https://git.io/typing-svg)
 
-```
-    🎀
-  
-```
 
 </div>
 
