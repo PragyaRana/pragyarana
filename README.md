@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🎀 the pragya post ✦
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=1000&color=c4607a&center=true&vCenter=true&width=600&lines=she+codes.+she+ships.+she+slays.+🌸)](https://git.io/typing-svg)
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -6,10 +10,13 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**she codes. she ships. she slays.** 🌸
+<img src="https://img.shields.io/badge/✦_MERN_EXPLORER-c4607a?style=for-the-badge&labelColor=fce8ed" alt="MERN"/>
+<img src="https://img.shields.io/badge/✦_DSA_DAILY_☕-e8a0b0?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/✦_OPEN_TO_OPPORTUNITIES-c4607a?style=for-the-badge&labelColor=fce8ed" alt="Open"/>
 
-MERN stack explorer by day, DSA grinder by night ☕
-Building clean code & shipping daily commits.
+**building clean code & shipping daily** 🚀
+
+</div>
 
 ---
 
@@ -25,27 +32,35 @@ Building clean code & shipping daily commits.
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ tech stack ✨
 
-**languages:** Java ☕ | JavaScript | C++ | Python
+<div align="center">
 
-**frontend:** React ⚛️ | Tailwind CSS | HTML/CSS
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**backend:** Node.js | Express | MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-**tools:** Git | GitHub | VS Code | Figma
+</div>
 
 ---
 
-## ✨ skill report
+## ✨ skill report ⚡
 
-```
-React         ████████░░ 80%  🚀
-Java (DSA)    ███████░░░ 75%  ☕ daily grind
-JavaScript    ██████░░░░ 65%
-Node.js       █████░░░░░ 60%  in progress
-C++           ██████░░░░ 70%
-```
+<div align="center">
+
+**React** `████████░░ 80%` 🚀  
+**Java (DSA)** `███████░░░ 75%` ☕  
+**JavaScript** `██████░░░░ 65%` ⚡  
+**Node.js** `█████░░░░░ 60%` 🌱  
+**C++** `██████░░░░ 70%` 🧠  
+
+</div>
 
 ---
 
@@ -57,16 +72,38 @@ C++           ██████░░░░ 70%
 
 ---
 
-## 📬 find me
+## 📊 profile highlights
 
-[![Gmail](https://img.shields.io/badge/email-pragyarana101@gmail.com-c4607a?style=flat-square)](mailto:pragyarana101@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pragyarana101-0077B5?style=flat-square)](https://www.linkedin.com/in/pragyarana101)
-[![GitHub](https://img.shields.io/badge/GitHub-pragyarana-181717?style=flat-square)](https://github.com/pragyarana)
-[![LeetCode](https://img.shields.io/badge/LeetCode-pragyarana-FFA116?style=flat-square)](https://leetcode.com/pragyarana)
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=pragyarana&label=visitors&color=c4607a&style=for-the-badge)
+![Status](https://img.shields.io/badge/status-open_to_work-e8a0b0?style=for-the-badge)
+![Made with love](https://img.shields.io/badge/made_with-♡_in_india-c4607a?style=for-the-badge)
+
+</div>
 
 ---
 
+## 📬 find me 💌
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/📧_Email-pragyarana101@gmail.com-c4607a?style=for-the-badge)](mailto:pragyarana101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-pragyarana101-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pragyarana101)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-pragyarana-181717?style=for-the-badge)](https://github.com/pragyarana)
+[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-pragyarana-FFA116?style=for-the-badge)](https://leetcode.com/pragyarana)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=2000&color=c4607a&center=true&vCenter=true&width=500&lines=commit+·+push+·+ship+·+learn;thanks+for+stopping+by!+🎀;drop+a+⭐+if+you+vibe+with+this)](https://git.io/typing-svg)
+
 ```
-commit · push · ship · learn
-thanks for stopping by! 🎀
+ 
+  
 ```
+
+</div>
