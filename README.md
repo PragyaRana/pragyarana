@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
@@ -94,12 +94,8 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-snake-dark.svg"
-    width="100%"/> -->
+    width="100%"/> 
 </picture>
-
-**~ or the ocean version ~**
-
-<img src="https://raw.githubusercontent.com/pragyarana/pragyarana/output/ocean.gif" width="100%" alt="ocean contribution animation"/>
 
 </div>
 
