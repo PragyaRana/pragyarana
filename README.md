@@ -36,15 +36,33 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**💻 LANGUAGES**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA6B8F?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8A0B0?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C4607A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D97B9E?style=for-the-badge&logo=python&logoColor=white)
+
+**🎨 FRONTEND**
+
+![React](https://img.shields.io/badge/React-E8A0B0?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-EA6B8F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C4607A?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-D97B9E?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**⚙️ BACKEND & DATABASE**
+
+![Node.js](https://img.shields.io/badge/Node.js-E8A0B0?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-EA6B8F?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-C4607A?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-D97B9E?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔧 TOOLS**
+
+![Git](https://img.shields.io/badge/Git-E8A0B0?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-EA6B8F?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-C4607A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-D97B9E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -59,6 +77,29 @@
 **JavaScript** `██████░░░░ 65%` ⚡  
 **Node.js** `█████░░░░░ 60%` 🌱  
 **C++** `██████░░░░ 70%` 🧠  
+
+</div>
+
+---
+
+## 🐍 contribution trail
+
+<div align="center">
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-snake.svg"/>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/pragyarana/pragyarana/output/github-snake-dark.svg"
+    width="100%"/> -->
+</picture>
+
+**~ or the ocean version ~**
+
+<img src="https://raw.githubusercontent.com/pragyarana/pragyarana/output/ocean.gif" width="100%" alt="ocean contribution animation"/>
 
 </div>
 
@@ -102,8 +143,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=2000&color=c4607a&center=true&vCenter=true&width=500&lines=commit+·+push+·+ship+·+learn;thanks+for+stopping+by!+🎀;drop+a+⭐+if+you+vibe+with+this)](https://git.io/typing-svg)
 
 ```
- 
+    🎀
   
 ```
 
 </div>
+
+---
+
