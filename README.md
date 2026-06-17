@@ -53,9 +53,15 @@
 **⚙️ BACKEND & DATABASE**
 
 ![Node.js](https://img.shields.io/badge/Node.js-E8A0B0?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-EA6B8F?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-C4607A?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-D97B9E?style=for-the-badge&logo=mysql&logoColor=white)
+
+**📊 DATA & VISUALIZATION**
+
+![Pandas](https://img.shields.io/badge/Pandas-E8A0B0?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-EA6B8F?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-C4607A?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-D97B9E?style=for-the-badge&logo=python&logoColor=white)
 
 **🔧 TOOLS**
 
@@ -63,20 +69,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-EA6B8F?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-C4607A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-D97B9E?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-E8A0B0?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-EA6B8F?style=for-the-badge&logo=power-bi&logoColor=white)
 
 </div>
 
 ---
 
-## ✨ skill report ⚡
+## 🔥 streaks
 
 <div align="center">
 
-**React** `████████░░ 80%` 🚀  
-**Java (DSA)** `███████░░░ 75%` ☕  
-**JavaScript** `██████░░░░ 65%` ⚡  
-**Node.js** `█████░░░░░ 60%` 🌱  
-**C++** `██████░░░░ 70%` 🧠  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pragyarana&theme=dark&background=0d1117&ring=c4607a&fire=ea6b8f&currStreakNum=e8a0b0&sideNums=e8a0b0&currStreakLabel=c4607a&dates=d97b9e)](https://git.io/streak-stats)
 
 </div>
 
@@ -142,4 +146,3 @@
 </div>
 
 ---
-
