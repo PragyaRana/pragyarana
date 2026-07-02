@@ -68,7 +68,6 @@
 ![Git](https://img.shields.io/badge/Git-E8A0B0?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EA6B8F?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-C4607A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-D97B9E?style=for-the-badge&logo=figma&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-E8A0B0?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-EA6B8F?style=for-the-badge&logo=power-bi&logoColor=white)
 
