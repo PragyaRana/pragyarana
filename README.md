@@ -131,7 +131,7 @@
 [![Gmail](https://img.shields.io/badge/📧_Email-pragyarana101@gmail.com-c4607a?style=for-the-badge)](mailto:pragyarana101@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-pragyarana101-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pragyarana101)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-pragyarana-181717?style=for-the-badge)](https://github.com/pragyarana)
-[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-pragyarana-FFA116?style=for-the-badge)](https://leetcode.com/pragyarana)
+[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-pragyarana-FFA116?style=for-the-badge)](https://leetcode.com/pragyarana101)
 
 </div>
 
