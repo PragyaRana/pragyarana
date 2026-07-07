@@ -70,7 +70,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-C4607A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-E8A0B0?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-EA6B8F?style=for-the-badge&logo=power-bi&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/Tableau-EA6B8F?style=for-the-badge&logo=tableau&logoColor=white)
 </div>
 
 ---
