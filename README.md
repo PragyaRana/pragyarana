@@ -75,11 +75,30 @@
 
 ---
 
+## 📈 github stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=PragyaRana&show_icons=true&hide_border=true&bg_color=00000000&title_color=c4607a&icon_color=ea6b8f&text_color=e8a0b0&ring_color=c4607a" alt="pragya's github stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PragyaRana&layout=compact&hide_border=true&bg_color=00000000&title_color=c4607a&text_color=e8a0b0&langs_count=8" alt="top languages"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🔥 streaks
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pragyarana&theme=dark&background=0d1117&ring=c4607a&fire=ea6b8f&currStreakNum=e8a0b0&sideNums=e8a0b0&currStreakLabel=c4607a&dates=d97b9e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pragyarana&theme=transparent&hide_border=true&background=00000000&ring=c4607a&fire=ea6b8f&currStreakNum=c4607a&sideNums=c4607a&currStreakLabel=c4607a&sideLabels=e8a0b0&dates=e8a0b0&stroke=fce8ed)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,7 +159,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=2000&color=c4607a&center=true&vCenter=true&width=500&lines=commit+·+push+·+ship+·+learn;thanks+for+stopping+by!+🎀;drop+a+⭐+if+you+vibe+with+this)](https://git.io/typing-svg)
-
 
 </div>
 
