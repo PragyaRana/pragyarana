@@ -75,25 +75,6 @@
 
 ---
 
-## 📈 github stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=PragyaRana&show_icons=true&hide_border=true&bg_color=00000000&title_color=c4607a&icon_color=ea6b8f&text_color=e8a0b0&ring_color=c4607a" alt="pragya's github stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PragyaRana&layout=compact&hide_border=true&bg_color=00000000&title_color=c4607a&text_color=e8a0b0&langs_count=8" alt="top languages"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🔥 streaks
 
 <div align="center">
