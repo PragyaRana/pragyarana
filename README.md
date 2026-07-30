@@ -79,7 +79,15 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pragyarana&theme=transparent&hide_border=true&background=00000000&ring=c4607a&fire=ea6b8f&currStreakNum=c4607a&sideNums=c4607a&currStreakLabel=c4607a&sideLabels=e8a0b0&dates=e8a0b0&stroke=fce8ed)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=pragyarana&theme=dark&hide_border=true&background=00000000&ring=c4607a&fire=ea6b8f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e8a0b0&sideLabels=e8a0b0&dates=cccccc&stroke=fce8ed"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=pragyarana&theme=default&hide_border=true&background=ffffff00&ring=c4607a&fire=ea6b8f&currStreakNum=c4607a&sideNums=c4607a&currStreakLabel=c4607a&sideLabels=6b6b6b&dates=6b6b6b&stroke=fce8ed"/>
+  <img alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=pragyarana&theme=transparent&hide_border=true&ring=c4607a&fire=ea6b8f&currStreakNum=c4607a&sideNums=c4607a&currStreakLabel=c4607a&sideLabels=e8a0b0&dates=e8a0b0&stroke=fce8ed"
+    width="70%"/>
+</picture>
 
 </div>
 
